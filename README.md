@@ -1,12 +1,49 @@
-- 👋 Hi, I’m @Ajierrorcoder
-- 👀 I’m interested in commitments ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 reach me @ ajithkumark0806@gmail.com...
-- 😄 Pronouns: He/Him...
-- ⚡ Fun fact: I Started to code...
+### 👋 Hi there, I'm Ajithkumar K - @Ajierrorcoder
 
-<!---
-Ajierrorcoder/Ajierrorcoder is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+🚀 A passionate Full Stack Developer | DevOps Learner | Java Enthusiast  
+🌍 Based in Chennai, India  
+📧 Reach me: ajithkumark0806@gmail.com  
+
+---
+
+### 👀 What I'm Interested In:
+- 💼 Building scalable backend systems with **Java & Spring Boot**
+- 🖥️ Frontend development using **React.js**
+- ☁️ Learning **DevOps tools** like Docker, Kubernetes, and CI/CD
+- 🔐 Exploring **Microservices** architecture
+- 📦 Version control & collaboration with **Git & GitHub**
+
+---
+
+### 🌱 Currently Learning:
+- ☁️ **AWS Cloud Fundamentals**
+- 🐳 **Docker & Kubernetes**
+- 🧠 **System Design Concepts**
+- 💻 **PostgreSQL + GoLang Stack** for my company’s product
+
+---
+
+### 🤝 Looking to Collaborate On:
+- 🛠️ Open Source Java Projects
+- 💬 Developer Communities / Tech Meetups
+- 💻 Real-time Projects (Backend / Full Stack)
+
+---
+
+### 📊 GitHub Stats:
+![Ajithkumar's GitHub stats](https://github-readme-stats.vercel.app/api?username=ajierrorcoder&show_icons=true&theme=tokyonight)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ajierrorcoder&layout=compact&theme=tokyonight)
+
+---
+
+### 😄 Pronouns: He/Him  
+⚡ Fun Fact: I started coding from curiosity and now it’s my passion!
+
+---
+
+### 🔗 Connect with me:
+- [LinkedIn](https://www.linkedin.com/in/ajithkumaraero123)
+- [GitHub](https://github.com/ajierrorcoder)
+- ✉️ Email: ajithkumark0806@gmail.com
+
+---
